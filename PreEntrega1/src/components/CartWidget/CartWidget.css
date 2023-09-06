@@ -1,0 +1,11 @@
+.icon-cart {
+    display: flex;
+    justify-content: end;
+}
+
+.cart-carrito {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 25px;
+}
